@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MIMUW Map</string>
+    <string name="app_title">Where is my professor?</string>
+    <string name="faculty_logo">Logo of the Faculty</string>
+    <string name="faculty_map">Faculty Building Map</string>
+    <string name="tap_prompt">Tap anywhere to continue</string>
+    <string name="who_question">Who are you looking for?</string>
+    <string name="find_button">Find</string>
+    <string name="professor_search_hint">Your professor</string>
+    <string name="dialog_ok_button">OK</string>
+    <string name="dialog_cancel_button">Cancel</string>
+    <string name="add_prof_dialog_title">Unknown professor</string>
+    <string name="add_prof_dialog_message" formatted="true">
+        %1$s is unknown.
+        Would you like to download the information about this person from the mimuw.edu.pl website?
+    </string>
+    <string name="add_prof_success_title">Success</string>
+    <string name="add_prof_failure_title">Error occurred</string>
+    <string name="add_prof_success_message" formatted="true">
+        Professor %1$s added successfully.
+    </string>
+    <string name="add_prof_dialog_ok_button">Yes</string>
+    <string name="add_prof_search_failure_message" formatted="true">
+        Professor %1$s not found on mimuw.edu.pl
+    </string>
+    <string name="add_prof_internet_failure_message">Internet connection problem</string>
+    <string name="add_prof_notif_ticker">MIMUW Map: Updating professor&#8230;</string>
+    <string name="add_prof_notif_title">MIMUW Map: Finding professor</string>
+    <string name="add_prof_notif_text" formatted="true">Searching mimuw.edu.pl for %1$s</string>
+    <string name="data_loading_error_message">Error occurred while loading application</string>
+    <string name="display_room_known" formatted="true">room %1$d, floor %2$d</string>
+    <string name="display_room_unknown" formatted="true">room %1$d, location unknown</string>
+</resources>
