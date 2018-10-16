@@ -1,6 +1,6 @@
 # MIMUW Map
 ## Description
-Android application usefull for students studying on MIMUW and looking for their professor's room.
+Android application useful for students studying on MIMUW and looking for their professor's room.
 MIMUW stands for the Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw.
 
 Min SDK version: **21**
